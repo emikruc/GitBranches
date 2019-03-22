@@ -3,6 +3,7 @@ package branch1;
 
 public class Branch1{
     int a = 100;
+    int b =200;
     public String name = "Misha na master chenged a value";
 
     public Branch1(int a) {
