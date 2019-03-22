@@ -6,5 +6,7 @@ public class Main {
         System.out.println("This is main branch of project");
 
         System.out.println("This is example of first iteration in project");
+
+        System.out.println("Bug fixing second iteration added new string in branch 1 and new value in branch 2");
     }
 }
